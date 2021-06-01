@@ -3,7 +3,7 @@ use App\Connection;
 use App\Model\Post;
 use App\Table\PostTable;
 
-$title = 'Chaînes Youtubes'; 
+$title = 'Chaînes Youtubes';
 
 $pdo = Connection::getPDO();
 
