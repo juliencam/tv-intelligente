@@ -1,4 +1,6 @@
+exclude everything somefolder/* # exception to the rule !somefolder/.gitkeep
 public/uploads/*
+!public/uploads/.gitkeep
 public/fonts
 public/acme-challenge
 src/Connection.php
