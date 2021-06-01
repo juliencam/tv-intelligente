@@ -1,0 +1,5 @@
+public/uploads
+public/fonts
+public/acme-challenge
+src/Connection.php
+vendor
