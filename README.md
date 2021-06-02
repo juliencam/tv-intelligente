@@ -11,6 +11,8 @@ Ce repository concerne la totalité du projet.
 
 Documentation :https://github.com/juliencam/tv-intelligente/tree/master/documentation
 
+Le site est responsive
+
 ### Descriptif du projet
 
 Web TV consistant à référencer du contenu youtube intelligent.
