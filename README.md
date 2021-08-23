@@ -1,4 +1,4 @@
-# tv-intelligente
+# tv-intelligente (V1)
 ## Projet
 Ce projet m’a servi à expérimenter ce que j’ai appris en autodidacte avant ma formation professionnelle entre mars et septembre 2020.
 Il y a beaucoup de choses à améliorer.
