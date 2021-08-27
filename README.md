@@ -9,8 +9,6 @@ TV intelligente : https://tvintelligente.fr/
 
 Ce repository concerne la totalité du projet.
 
-Documentation :https://github.com/juliencam/tv-intelligente/tree/master/documentation
-
 Le site est responsive
 
 ### Descriptif du projet
