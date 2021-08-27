@@ -5,7 +5,7 @@ Il y a beaucoup de choses à améliorer.
 
 L'idée était de mettre en pratique mes connaissances en php, html, css, sql au travers d'un projet from scratch aidé par quelques librairies.
 
-TV intelligente : https://tvintelligente.fr/
+TV intelligente : https://ancienne-version.tvintelligente.fr/
 
 Ce repository concerne la totalité du projet.
 
